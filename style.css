@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+}
+body {
+  background: black no-repeat;
+  font: normal 15px arial;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flexbox;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 20px;
+}
+
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 50%;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+div {
+  text-align: center;
+  padding: 8px;
+}
+
+.mensagem,
+.mensagem2 {
+  font-size: xx-large;
+}
+
+.img {
+  border-radius: 50%;
+}
+
+footer {
+  color: black;
+  font-style: italic;
+  text-align: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  padding-left: 15px;
+}
